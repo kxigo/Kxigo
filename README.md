@@ -20,15 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kxigo&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://raw.githubusercontent.com/kxigo/kxigo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
