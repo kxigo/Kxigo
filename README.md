@@ -21,12 +21,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Kxigo&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/kxigo/kxigo/output/snake.svg" alt="Snake animation" />
+
+###
+
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kxigo/kxigo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kxigo/kxigo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kxigo/kxigo/output/pacman-contribution-graph.svg">
-</picture>
+<div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
