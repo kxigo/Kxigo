@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌱 I’m currently learning to make costume mods with with some effects.<br>.
+ 🌱 I’m currently learning to make costume mods with with some effects.<br>
 
 
 ## 🌐 Socials:
