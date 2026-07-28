@@ -2,23 +2,22 @@
 
 ```yaml
 kxigo@github ---------------------------------------------
-OS: Linux (CachyOS), Android
-Uptime: 19 years
-DE: Hyprland (RuyZinOh)
-GPU: AMD Radeon Integrated Graphics
-IDE: VSCode, Neovim
+OS:...............................Linux (CachyOS), Android
+Uptime:...........................................19 years
+DE:....................................Hyprland (RuyZinOh)
+GPU:........................AMD Radeon Integrated Graphics
+IDE:........................................VSCode, Neovim
 
 
-Languages.Programming: Java, Python, C++, C, JavaScript
-Languages.Computer: HTML, CSS, JSON, SQL
-Languages.Real: English, Hindi, Gujarati, Malayalam
+Languages.Programming:....Java, Python, C++, C, JavaScript
+Languages.Computer:...................HTML, CSS, JSON, SQL
+Languages.Real:........English, Hindi, Gujarati, Malayalam
 
-Hobbies.Software: Linux Customization, Dotfiles
-Hobbies.Gaming: Story-Driven RPGs, PC Gaming
-Hobbies.Other: Chess, Creative Writing, Content Writing
-
+Hobbies.Software:............Linux Customization, Dotfiles
+Hobbies.Gaming:...............Story-Driven RPGs, PC Gaming
+Hobbies.Other:....Scific, Creative Writing, Content Writing
 
 Contact: ---------------------------------------------------------
-Email.Personal: Karthikramadasan448@gmail.com
-LinkedIn: karthikramadasan
-GitHub: Kxigo
+Email.Personal:..................... Karthikramadasan448@gmail.com
+GitHub:......................................................Kxigo
+Linkedin:.........................................KarthikRamadasan
